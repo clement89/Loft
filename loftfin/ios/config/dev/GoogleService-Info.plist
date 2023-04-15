@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>654236403304-g8j7v9netdtrteeqsc3upovk7rtgh1lo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.654236403304-g8j7v9netdtrteeqsc3upovk7rtgh1lo</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>654236403304-jul28ro0h5ls7pr1ufcp9dpbas5esrer.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAQlAoo36o9v8vCaTnhUtnElDfIqVAPKwA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>654236403304</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.loftfin.admin.dev</string>
+	<key>PROJECT_ID</key>
+	<string>loftfin-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>loftfin-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:654236403304:ios:48e3109347c95672b59ddd</string>
+</dict>
+</plist>

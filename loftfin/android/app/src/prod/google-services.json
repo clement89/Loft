@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "654236403304",
+    "project_id": "loftfin-dev",
+    "storage_bucket": "loftfin-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654236403304:android:49154acabc521479b59ddd",
+        "android_client_info": {
+          "package_name": "com.loftfin.loftfin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654236403304-jul28ro0h5ls7pr1ufcp9dpbas5esrer.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loftfin.loftfin",
+            "certificate_hash": "a004f865ebe3e806c6e7bea8c44e987a7960d682"
+          }
+        },
+        {
+          "client_id": "654236403304-uhk9v7el36uju8jpp5id9o6mhafb5r1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClE7FexPohBXfJtYZ2mt97YJaQSPti9GQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654236403304-uhk9v7el36uju8jpp5id9o6mhafb5r1e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654236403304-b0kkode8qlskit93ikhl6qhf5e7hp1rq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loftfin.loftfin.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654236403304:android:f0ebf594f23ca221b59ddd",
+        "android_client_info": {
+          "package_name": "com.loftfin.loftfin.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654236403304-m6rfmf5tao0fquq8h2n8499lsbvc6vp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loftfin.loftfin.dev",
+            "certificate_hash": "a004f865ebe3e806c6e7bea8c44e987a7960d682"
+          }
+        },
+        {
+          "client_id": "654236403304-uhk9v7el36uju8jpp5id9o6mhafb5r1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClE7FexPohBXfJtYZ2mt97YJaQSPti9GQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654236403304-uhk9v7el36uju8jpp5id9o6mhafb5r1e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654236403304-b0kkode8qlskit93ikhl6qhf5e7hp1rq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.loftfin.loftfin.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
